@@ -152,7 +152,7 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     color: '#FFF',
     fontSize: 18,
-    fontWeight: '900',
+    fontWeight: '901',
     textTransform: 'uppercase',
   },
   noPacientes: {
